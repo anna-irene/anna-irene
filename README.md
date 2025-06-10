@@ -23,12 +23,4 @@
 
 ---
 
-
-### Connect With Me
-
--  **LinkedIn:** [https://www.linkedin.com/in/anna-irene-0b6348359/]
--  **Email:** [annairene2004@gmail.com]
-
----
-
 Feel free to explore my repositories and reach out!
